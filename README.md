@@ -1,6 +1,6 @@
 # Welcome! :wave:
 
-This repository contains a collection of R scripts designed to run seamlessly on macOS systems. This README provides a quick guide on how to navigate through the contents of the repository and run the scripts. For a more in-depth explanation of each R script and command, please refer to the Appendix at the end of this document.
+This repository contains a collection of R scripts designed to run seamlessly on macOS systems. It is the source code for the two-sample power comparison in the paper: [Two-Sample Tests Based on Data Depth](https://www.mdpi.com/1099-4300/25/2/238). This README provides a quick guide on how to navigate through the contents of the repository and run the scripts. For a more in-depth explanation of each R script and command, please refer to the Appendix at the end of this document.
 
 ## Repository Structure :open_file_folder:
 
