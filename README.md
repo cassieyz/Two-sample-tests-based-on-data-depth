@@ -51,3 +51,5 @@ The .rds files are stored in three separate folders:
 ## Thank You! :heart:
 
 Your participation and interest are greatly appreciated!
+
+NOTE: All .R and .sh files should be run in one folder with the same local path.
